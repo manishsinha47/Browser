@@ -1,4 +1,10 @@
 # Web browser
+### Note
+```
+Make Sure to Run to it as an ADMINISTRATOR.
+Wait for it to auto configure.
+It's recommended to use the latest and legitimate version of Windows and .NetFramework available. So,that application runs without any issues.
+```
 ## 1.UI
 ![alt text](https://user-images.githubusercontent.com/22167688/30001449-4b4813c4-90ac-11e7-9e12-296db2167680.png)
 ## 2.To Add Tab
